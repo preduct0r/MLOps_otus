@@ -1,0 +1,3 @@
+[submodule "DZ/DZ4/Milenkin"]
+	path = DZ/DZ4/Milenkin
+	url = git@github.com:a-milenkin/MLOps_Otus.git
